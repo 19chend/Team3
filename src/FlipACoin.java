@@ -11,7 +11,7 @@ double heads = 0;
 double big = 0;
 double small = 100000;
 
-for (int counter = 1; counter <= 1000000; counter++)
+for (int counter = 1; counter <= 100; counter++)
 {
 	for (int counter2 = 1; counter2 <= 100000; counter2++)
 	{
